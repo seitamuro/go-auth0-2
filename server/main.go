@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	v1 "github.com/seitamuro/go-auth0-2/server/handler/v1"
+	v1 "github.com/seitamuro/go-auth0-2/server/handlers/v1"
 )
 
 const (
